@@ -1,0 +1,29 @@
+
+/* General page styling */
+body {
+    background-color: #071B33;
+    color: #FFFFFF;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 40px;
+    text-align: center;
+}
+
+/* Main heading */
+h1 {
+    color: #159BFF;
+    font-size: 40px;
+}
+
+/* Secondary heading */
+h2 {
+    color: #FFFFFF;
+    font-size: 28px;
+}
+
+/* Paragraph */
+p {
+    color: #C6D6E8;
+    font-size: 18px;
+    line-height: 1.6;
+}
